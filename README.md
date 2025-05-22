@@ -1,2 +1,2 @@
-# OPTIC-2024
+# OPTIC-2025
 Curso de Programação
